@@ -36,7 +36,7 @@ As true data explorers, we embark on the EDA phase, where we unlock the secrets 
 https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master
 ![eda]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master/images/corr.png')
 ![eda1]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master/images/proc.png')
-'[eda2]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master/images/ram.png')
+![eda2]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master/images/ram.png')
 
 ## Machine Learning Model
 
