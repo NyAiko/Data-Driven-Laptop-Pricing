@@ -33,10 +33,12 @@ In our quest for truth, the first step is to process the data meticulously. Our 
 
 As true data explorers, we embark on the EDA phase, where we unlock the secrets hidden within the dataset. Visualizations become our compass, guiding us to uncover valuable patterns and insights.
 
-https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master
-![eda]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master/images/corr.png')
-![eda1]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master/images/proc.png')
-![eda2]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master/images/ram.png')
+
+![eda1]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/blob/master/images/proc.png')
+![eda2]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/blob/master/images/proc_gnrtn.png')
+![eda3]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/blob/master/images/ram.png')
+![eda0]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/blob/master/images/corr.png')
+
 
 ## Machine Learning Model
 
