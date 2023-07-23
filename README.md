@@ -33,12 +33,9 @@ In our quest for truth, the first step is to process the data meticulously. Our 
 
 As true data explorers, we embark on the EDA phase, where we unlock the secrets hidden within the dataset. Visualizations become our compass, guiding us to uncover valuable patterns and insights.
 
-![Uploading proc.png…]()
-
-![Uploading proc_gnrtn.png…]()
-
+![proc](https://github.com/NyAiko/Data-Driven-Laptop-Pricing/assets/105801284/58b80bf4-5646-4ebd-97b5-c3a30f7f6d2e)
+![proc_gnrtn](https://github.com/NyAiko/Data-Driven-Laptop-Pricing/assets/105801284/bbed24dc-a041-4856-a620-2e794133f1f6)
 ![ram](https://github.com/NyAiko/Data-Driven-Laptop-Pricing/assets/105801284/eb715c30-f6d8-415c-9385-0cd97dbed87a)
-
 ![corr](https://github.com/NyAiko/Data-Driven-Laptop-Pricing/assets/105801284/c9131a36-82d7-4a8e-88c5-04bddc55f851)
 
 
