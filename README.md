@@ -32,6 +32,8 @@ In our quest for truth, the first step is to process the data meticulously. Our 
 ## Exploratory Data Analysis (EDA)
 
 As true data explorers, we embark on the EDA phase, where we unlock the secrets hidden within the dataset. Visualizations become our compass, guiding us to uncover valuable patterns and insights.
+
+
 ![eda]('images/corr.png')
 ![eda1]('images/proc.png')
 '[eda2]('images/ram.png')
