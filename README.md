@@ -1,6 +1,6 @@
 ## Overview
 
-Welcome to "Data Driven Laptop Pricing" where we embark on an exciting journey to predict laptop prices using cutting-edge data science techniques. Our (dataset)[https://www.kaggle.com/datasets/dharmik34/laptop-price-prediction], sourced from [Kaggle](https://www.kaggle.com), serves as the foundation for our exploration. Our project revolves around three primary objectives:
+Welcome to "Data Driven Laptop Pricing" where we embark on an exciting journey to predict laptop prices using cutting-edge data science techniques. Our [dataset](https://www.kaggle.com/datasets/dharmik34/laptop-price-prediction), sourced from [Kaggle](https://www.kaggle.com), serves as the foundation for our exploration. Our project revolves around three primary objectives:
 
 1. **Unraveling Laptop Price Dynamics:** Our foremost goal is to gain a comprehensive understanding of how laptop prices operate and what factors significantly influence their pricing.
 
@@ -33,10 +33,10 @@ In our quest for truth, the first step is to process the data meticulously. Our 
 
 As true data explorers, we embark on the EDA phase, where we unlock the secrets hidden within the dataset. Visualizations become our compass, guiding us to uncover valuable patterns and insights.
 
-
-![eda]('images/corr.png')
-![eda1]('images/proc.png')
-'[eda2]('images/ram.png')
+https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master
+![eda]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master/images/corr.png')
+![eda1]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master/images/proc.png')
+'[eda2]('https://github.com/NyAiko/Data-Driven-Laptop-Pricing/tree/master/images/ram.png')
 
 ## Machine Learning Model
 
